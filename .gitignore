@@ -1,0 +1,17 @@
+# Go related
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# Go modules
+vendor/
+
+# Environment variables
+.env
