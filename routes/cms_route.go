@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/iczky/delis-backend/cms/handler"
+	"github.com/iczky/delis-backend/modules/cms/handler"
 )
 
 func RegisterCMSRoutes(app *fiber.App, cmsHandler *handler.CMSHandler) {

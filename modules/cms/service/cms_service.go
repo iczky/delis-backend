@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/iczky/delis-backend/cms/models"
-	"github.com/iczky/delis-backend/cms/repository"
+	"github.com/iczky/delis-backend/modules/cms/models"
+	"github.com/iczky/delis-backend/modules/cms/repository"
 )
 
 type CMSService interface {

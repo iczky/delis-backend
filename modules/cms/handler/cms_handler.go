@@ -4,8 +4,8 @@ import (
 	"strconv"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/iczky/delis-backend/cms/models"
-	"github.com/iczky/delis-backend/cms/service"
+	"github.com/iczky/delis-backend/modules/cms/models"
+	"github.com/iczky/delis-backend/modules/cms/service"
 	"github.com/iczky/delis-backend/shared"
 )
 

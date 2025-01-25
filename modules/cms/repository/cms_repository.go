@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/iczky/delis-backend/cms/models"
+	"github.com/iczky/delis-backend/modules/cms/models"
 	"gorm.io/gorm"
 )
 
